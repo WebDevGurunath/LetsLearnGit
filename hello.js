@@ -2,6 +2,7 @@
 
 // Define a function to print "Hello, World!"
 function sayHello() {
+    console.log("Good Morning");
     console.log("Hello, World!");
   }
   
